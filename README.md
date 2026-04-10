@@ -1,11 +1,11 @@
-# 📼 ZEN CANVAS
+# CYBERPUNK LOFI SYSTEM
 
 > **Lo-Fi beats with VHS Cyberpunk aesthetics.**  
 > A tactile, retro-futuristic music player built with React, TypeScript, and Framer Motion.
 
 ---
 
-![ZEN CANVAS Preview](https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=0d0d0d&color=b44fff)
+![CYBERPUNK LOFI SYSTEM Preview](https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=0d0d0d&color=b44fff)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0d0d)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d0d0d)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-11-FF0055?style=for-the-badge&logo=framer&logoColor=white&labelColor=0d0d0d)
@@ -93,7 +93,7 @@ zen-canvas/
 
 ## ◈ Connecting Real Audio
 
-To connect real lo-fi tracks, update `src/constants.ts`:
+To update the lo-fi tracks, make changes in `src/constants.ts`:
 
 ```typescript
 export const TRACKS: readonly Track[] = [
@@ -108,13 +108,13 @@ export const TRACKS: readonly Track[] = [
 ];
 ```
 
-For real video backgrounds, update the `src` field in `VIDEOS` with publicly accessible `.mp4` URLs or local `/public` assets.
+For updating the video backgrounds, change the `src` field in `VIDEOS` with publicly accessible `.mp4` URLs or local `/public` assets.
 
 ---
 
 ## ◈ Customization
 
-### Adding Tracks
+### Updating/Adding Tracks
 
 Edit `src/constants.ts` — add entries to the `TRACKS` array. Each track supports:
 - `title` — filename-style display string
@@ -122,7 +122,7 @@ Edit `src/constants.ts` — add entries to the `TRACKS` array. Each track suppor
 - `bpm` — beats per minute shown in the ticker
 - `color` — hex accent color for this track (neon glow, waveform, dots)
 
-### Changing Video Scenes
+### Changing/Updating Video Scenes
 
 Edit the `VIDEOS` array in `src/constants.ts`:
 ```typescript
@@ -148,7 +148,7 @@ export const GLITCH_DURATION_MS = 500; // milliseconds
 - **`#ff2d78`** — Alert pink (REC light, Glitch button, peak meter)
 - **`Share Tech Mono`** — Body terminal font
 - **`VT323`** — Pixel-art control labels
-- **`Orbitron`** — Track title display font
+- **`Orbitron`** — Bonus hehe
 
 ---
 
