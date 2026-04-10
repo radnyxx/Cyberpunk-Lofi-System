@@ -24,10 +24,9 @@
 | **Now Playing Ticker** | Scrolling terminal-style monospaced ticker with artist/track/BPM |
 | **VHS Fader Mixer** | Vertical vintage-style fader controls for Volume and Reverb |
 | **VU Meter** | Animated L/R level meters with green → yellow → red segments |
-| **Status LEDs** | PWR / REC / VHS indicator LEDs with neon pulse animation |
 | **⚡ GLITCH Button** | 500ms full-screen visual distortion with RGB channel splitting |
 | **Looping Video Backgrounds** | Atmospheric video scenes cycling per track |
-| **Waveform Visualizer** | Animated frequency bar display synced to playback state |
+| **Waveform Visualizer** | Animated frequency bar display synced to playback state | will add soon!
 | **Fully Responsive** | Adapts from mobile to widescreen with tactile device framing |
 | **TypeScript Strict** | Complete type coverage across all components and state |
 
@@ -161,5 +160,5 @@ MIT — free to fork, remix, and broadcast into the void.
 
 <div align="center">
   <code>ZEN_CANVAS v1.0.0 // LO-FI SYSTEM</code><br/>
-  <code>© 2025 GHOST_PROTOCOL_MEDIA</code>
+  <code>© 2026 RADNYX_X</code>
 </div>
